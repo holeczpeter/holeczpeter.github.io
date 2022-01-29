@@ -772,8 +772,28 @@ nav ul.menu ul ul {
 	padding: 6px 0;
 	text-align:center;
 }
+.album-cat.nav{
+	margin: 0 auto;
+    position: static;
+    width: 45%;
+	background: #ffffff;
+    border-radius: 3px;
+	-moz-border-radius:3px;
+	-webkit-border-radius :3px;
+	-ms-border-radius:3px;
+	-o-border-radius:3px;
+    height: auto;
+	padding: 6px 0;
+	text-align:center;
+}
 
-
+.album-cat.nav li a.active {
+    color:#181818;
+}
+.album-cat.nav li{
+	display:inline-block;
+	margin:0 8px;
+}
 
 
 .album-cat.fixed {
