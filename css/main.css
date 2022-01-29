@@ -97,6 +97,32 @@
    }
 	  
 
+/*
+*	SELFIE (HTML version)
+* 	Copyright 2015
+* 	www.mutationmedia.net
+* 	Created by : Benaissa Ghrib
+*
+*/
+
+
+/* Table of Content
+==================================================
+1-Preloader
+2-Wrapper
+3-Header
+4-Home section
+5-About section
+6-Works section
+7-Shop section
+8-BLog section
+9-Contact section
+10-Footer
+11-Media queries
+
+
+
+
 /*Preloader*/
 #loader {
     background: #ffffff;
@@ -160,10 +186,10 @@ header.header{
 }
 
 .main-nav .logo {
-    bottom: 10px;
-    max-width: 160px;
+    bottom: 7px;
+    max-width: 80px;
     position: relative;
-	margin-top:20px;
+	margin-top:25px;
 }
 
 
@@ -189,7 +215,7 @@ nav ul.menu li{
 	text-transform: uppercase;
 	padding-bottom: 15px;
     padding-left: 10px;
-    padding-top:10px;
+    padding-top: 15px;
 	letter-spacing:1px;
 }
 
@@ -607,7 +633,7 @@ nav ul.menu ul ul {
 
 
 .about .profile-info p {
-	color:#f1f1f1;
+	color:#999999;
 	font-size:12px;
 }
 
@@ -772,28 +798,8 @@ nav ul.menu ul ul {
 	padding: 6px 0;
 	text-align:center;
 }
-.album-cat.nav{
-	margin: 0 auto;
-    position: static;
-    width: 45%;
-	background: #ffffff;
-    border-radius: 3px;
-	-moz-border-radius:3px;
-	-webkit-border-radius :3px;
-	-ms-border-radius:3px;
-	-o-border-radius:3px;
-    height: auto;
-	padding: 6px 0;
-	text-align:center;
-}
 
-.album-cat.nav li a.active {
-    color:#181818;
-}
-.album-cat.nav li{
-	display:inline-block;
-	margin:0 8px;
-}
+
 
 
 .album-cat.fixed {
