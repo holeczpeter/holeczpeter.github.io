@@ -87,10 +87,10 @@ header.header{
 }
 
 .main-nav .logo {
-    bottom: 7px;
-    max-width: 80px;
+    bottom: 10px;
+    max-width: 160px;
     position: relative;
-	margin-top:25px;
+	margin-top:20px;
 }
 
 
@@ -116,7 +116,7 @@ nav ul.menu li{
 	text-transform: uppercase;
 	padding-bottom: 15px;
     padding-left: 10px;
-    padding-top: 15px;
+    padding-top:20px;
 	letter-spacing:1px;
 }
 
