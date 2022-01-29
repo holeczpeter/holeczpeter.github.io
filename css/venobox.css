@@ -335,6 +335,7 @@
     overflow: hidden;
 }
 .vbox-container img{
+    max-height: 800px;
     max-width: 100%;
     height: auto;
 }
